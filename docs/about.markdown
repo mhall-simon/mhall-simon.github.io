@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 Hey there, I'm Matt, a mid-senior level software engineer specializing in Machine Learning Engineering and Ops (MLOps),
 designing ML-focused and democratized platforms and patterns for Corning Inc. I have a Master of Science
 in Finance from Simon Business School, University of Rochester, and a Bachelor of Arts from New York University.
